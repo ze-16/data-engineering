@@ -1,0 +1,13 @@
+Column,Data Type,Missing Values,Mean,Median,Min,Max
+product_id,int64,0,179.3474415666456,211.0,0.0,211.0
+user_id,object,2894,,,,
+user_name,object,2894,,,,
+Row_ID,object,2894,,,,
+Order_ID,object,2894,,,,
+Order_Date,object,2894,,,,
+Customer_ID,float64,2894,55116.29164420485,59715.0,1453.0,99207.0
+Customer_Name,float64,2894,7886.720754716981,8521.0,20.0,9800.0
+Country,float64,3184,12.834527131782945,12.834527131782947,4.555,21.35
+Postal_Code,object,0,,,,
+Weight,object,3398,,,,
+Category_Encoded,object,3398,,,,
